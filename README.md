@@ -1,6 +1,15 @@
 # 💫 About Me:
-I am Rashi Machine and Data science learner and i am currently pursing btech from panipat institure of enginerring and technonlogy<br>backend & Core lanhuages - Python , streamlit , flask , C , C++<br>Databases - Mysql <br>Practical applications → projects across domains like healthcare, finance, and e-commerce.<br>- Optimization techniques → hyperparameter tuning, model selection, and evaluation for performance<br>
+I am passionate about Data Science, Machine Learning, Deep Learning, and Natural Language Processing (NLP) with a focus on applying theory to real-world projects. My learning journey has given me a strong foundation in both core concepts and advanced techniques, enabling me to build intelligent and scalable AI solutions.
 
+I have experience in:
+- Foundational ML & NLP → algorithms, models, and techniques driving AI systems.
+- Advanced AI topics → deep learning, reinforcement learning, and transformer-based architectures.
+- Mathematical foundations → linear algebra, calculus, probability, and statistics for ML/NLP models.
+- Practical applications → projects across domains like healthcare, finance, and e-commerce.
+- Industry-standard tools → TensorFlow, PyTorch, scikit-learn, and MLOps practices for deployment.
+- Optimization techniques → hyperparameter tuning, model selection, and evaluation for performance.
+
+I am eager to collaborate on AI-driven projects where I can combine strong theoretical knowledge with practical problem-solving to create impactful solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashi_singh84) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rashisingh01ai/) 
